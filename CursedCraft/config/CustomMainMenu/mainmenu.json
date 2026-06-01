@@ -3,7 +3,7 @@
     {
         "title":
         {
-            "image" : "modpack:textures/gui/logo.png",
+            "image" : "cursedcraft:textures/gui/logo.png",
             "posX" : -137,
             "posY" : 30,
             "width" : 280,
@@ -28,7 +28,7 @@
         {
             "text" : "menu.singleplayer",
 	    "alignment": "left_center",
-	    "texture": "modpack:textures/gui/btn_1.png",
+	    "texture": "cursedcraft:textures/gui/btn_1.png",
             "posX" : 0,
             "posY" : -21,
             "width" : 200,
@@ -44,7 +44,7 @@
         {
             "text" : "menu.multiplayer",
 	    "alignment": "left_center",
-            "texture": "modpack:textures/gui/btn_1.png",
+            "texture": "cursedcraft:textures/gui/btn_1.png",
 	    "posX" : 0,
             "posY" : -1,
             "width" : 200,
@@ -60,7 +60,7 @@
         {
             "text" : "fml.menu.mods",
 	    "alignment": "left_center",
-	    "texture": "modpack:textures/gui/btn_1.png",
+	    "texture": "cursedcraft:textures/gui/btn_1.png",
             "posX" : 0,
             "posY" : 19,
             "width" : 200,
@@ -76,7 +76,7 @@
         {
             "text" : "menu.options",
             "alignment": "left_center",
-	    "texture": "modpack:textures/gui/btn_1.png",
+	    "texture": "cursedcraft:textures/gui/btn_1.png",
 	    "posX" : 0,
             "posY" : 39,
             "width" : 200,
@@ -92,7 +92,7 @@
         {
             "text" : "menu.quit",
             "alignment": "left_center",
-            "texture" : "modpack:textures/gui/btn_1.png",
+            "texture" : "cursedcraft:textures/gui/btn_1.png",
 	    "posX" : 0,
             "posY" : 59,
             "width" : 200,
@@ -129,7 +129,7 @@
             "posY" : 70,
             "color" : -256,
             "alignment" : "top_center",
-            "texts" : "file:minecraft:texts/splashes.txt"
+		    "texts" : "file:cursedcraft:texts/splashes.txt"
         },
         
         "background":
@@ -138,11 +138,11 @@
 		"slideshow": 
 		{
 			"images": [
-				"modpack:textures/bg/fondo_1.png",
-				"modpack:textures/bg/fondo_2.png",
-				"modpack:textures/bg/fondo_3.png",
-				"modpack:textures/bg/fondo_4.png",
-				"modpack:textures/bg/fondo_5.png"
+				"cursedcraft:textures/bg/fondo_1.png",
+				"cursedcraft:textures/bg/fondo_2.png",
+				"cursedcraft:textures/bg/fondo_3.png",
+				"cursedcraft:textures/bg/fondo_4.png",
+				"cursedcraft:textures/bg/fondo_5.png"
 			],
 			"displayDuration": 200,
 			"fadeDuration": 40

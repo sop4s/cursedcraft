@@ -49,7 +49,7 @@ Para este modpack recomendaría 3 o 4GB
 
 **Opcion 2:** Usar ZeroTier, quedo debiendo esta parte porque no lo tengo ni instalado xd.
 
-##Packs de recursos
+## Packs de recursos
 * [Modernity](https://www.curseforge.com/minecraft/texture-packs/modernity) (modificado para el modpack)
-##Lista de mods
+## Lista de mods
 
