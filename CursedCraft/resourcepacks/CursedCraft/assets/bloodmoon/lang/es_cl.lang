@@ -1,0 +1,6 @@
+text.bloodmoon.notify=La luna de sangre está saliendo...
+text.bloodmoon.nosleep=No puedes dormir durante la luna de sangre...
+text.bloodmoon.force=There will be a Bloodmoon next night
+text.bloodmoon.stop=Stopped the Bloodmoon
+text.bloodmoon.commandError=Bloodmoon Handler not loaded, try to execute this from the overworld.
+text.bloodmoon.entity=Monsters within 20 Blocks:
